@@ -53,7 +53,7 @@
 }
 
 .accordion-body::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: #000;
 }
 
 .accordion-body > img {
